@@ -1,0 +1,14 @@
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\bin\Debug\net9.0\03.RapidAPİ.exe
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\bin\Debug\net9.0\03.RapidAPİ.deps.json
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\bin\Debug\net9.0\03.RapidAPİ.runtimeconfig.json
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\bin\Debug\net9.0\03.RapidAPİ.dll
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\bin\Debug\net9.0\03.RapidAPİ.pdb
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\obj\Debug\net9.0\03.RapidAPİ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\obj\Debug\net9.0\03.RapidAPİ.AssemblyInfoInputs.cache
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\obj\Debug\net9.0\03.RapidAPİ.AssemblyInfo.cs
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\obj\Debug\net9.0\03.RapidAPİ.csproj.CoreCompileInputs.cache
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\obj\Debug\net9.0\03.RapidAPİ.dll
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\obj\Debug\net9.0\refint\03.RapidAPİ.dll
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\obj\Debug\net9.0\03.RapidAPİ.pdb
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\obj\Debug\net9.0\03.RapidAPİ.genruntimeconfig.cache
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\obj\Debug\net9.0\ref\03.RapidAPİ.dll

@@ -1,0 +1,23 @@
+﻿@model _02.APIConsumeUI.DTO.CreateCustomerDTO
+@{
+    Layout = null;
+}
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.rtl.min.css" rel="stylesheet" />
+
+<form method="post">
+<div class="container"  >
+	<br><br />
+
+	<label>Customer Name</label>
+	<input type="text" class="form-control" asp-for="CustomerName" />
+	<br />
+	<label>Customer Surname</label>
+	<input type="text" class="form-control" asp-for="CustomerSurname" /> 
+	<br />
+	<label>Customer Balance</label>
+	<input type="text" class="form-control" asp-for="CustomerBalance" />  
+	<br />
+	<button class="btn btn-primary">Add Customer</button>
+</div>
+</form>
