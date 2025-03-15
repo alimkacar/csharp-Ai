@@ -1,0 +1,17 @@
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\04.OpenAIChat\bin\Debug\net9.0\04.OpenAIChat.exe
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\04.OpenAIChat\bin\Debug\net9.0\04.OpenAIChat.deps.json
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\04.OpenAIChat\bin\Debug\net9.0\04.OpenAIChat.runtimeconfig.json
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\04.OpenAIChat\bin\Debug\net9.0\04.OpenAIChat.dll
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\04.OpenAIChat\bin\Debug\net9.0\04.OpenAIChat.pdb
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\04.OpenAIChat\obj\Debug\net9.0\04.OpenAIChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\04.OpenAIChat\obj\Debug\net9.0\04.OpenAIChat.AssemblyInfoInputs.cache
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\04.OpenAIChat\obj\Debug\net9.0\04.OpenAIChat.AssemblyInfo.cs
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\04.OpenAIChat\obj\Debug\net9.0\04.OpenAIChat.csproj.CoreCompileInputs.cache
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\04.OpenAIChat\obj\Debug\net9.0\04.OpenAIChat.dll
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\04.OpenAIChat\obj\Debug\net9.0\refint\04.OpenAIChat.dll
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\04.OpenAIChat\obj\Debug\net9.0\04.OpenAIChat.pdb
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\04.OpenAIChat\obj\Debug\net9.0\04.OpenAIChat.genruntimeconfig.cache
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\04.OpenAIChat\obj\Debug\net9.0\ref\04.OpenAIChat.dll
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\04.OpenAIChat\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\04.OpenAIChat\obj\Debug\net9.0\04.OpenAIChat.csproj.AssemblyReference.cache
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\04.OpenAIChat\obj\Debug\net9.0\04.OpenA.1B3AECCF.Up2Date

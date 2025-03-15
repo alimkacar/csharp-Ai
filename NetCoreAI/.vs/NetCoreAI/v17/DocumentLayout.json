@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Alim Ka\u00E7ar\\source\\repos\\NetCoreAI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{38DA0AF6-1B06-44D6-9012-632754BE4D39}|04.OpenAIChat\\04.OpenAIChat.csproj|c:\\users\\alim ka\u00E7ar\\source\\repos\\netcoreai\\04.openaichat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DA0AF6-1B06-44D6-9012-632754BE4D39}|04.OpenAIChat\\04.OpenAIChat.csproj|solutionrelative:04.openaichat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1A72471-20A1-4A21-9BC1-304013D0B87D}|03.RapidAP\u0130\\03.RapidAP\u0130.csproj|c:\\users\\alim ka\u00E7ar\\source\\repos\\netcoreai\\03.rapidap\u0130\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1A72471-20A1-4A21-9BC1-304013D0B87D}|03.RapidAP\u0130\\03.RapidAP\u0130.csproj|solutionrelative:03.rapidap\u0130\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A72471-20A1-4A21-9BC1-304013D0B87D}|03.RapidAP\u0130\\03.RapidAP\u0130.csproj|c:\\users\\alim ka\u00E7ar\\source\\repos\\netcoreai\\03.rapidap\u0130\\03.rapidap\u0130.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1A72471-20A1-4A21-9BC1-304013D0B87D}|03.RapidAP\u0130\\03.RapidAP\u0130.csproj|solutionrelative:03.rapidap\u0130\\03.rapidap\u0130.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A72471-20A1-4A21-9BC1-304013D0B87D}|03.RapidAP\u0130\\03.RapidAP\u0130.csproj|c:\\users\\alim ka\u00E7ar\\source\\repos\\netcoreai\\03.rapidap\u0130\\viewmodels\\apiseriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A72471-20A1-4A21-9BC1-304013D0B87D}|03.RapidAP\u0130\\03.RapidAP\u0130.csproj|solutionrelative:03.rapidap\u0130\\viewmodels\\apiseriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,11 +44,48 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alim Ka\u00E7ar\\source\\repos\\NetCoreAI\\04.OpenAIChat\\Program.cs",
+              "RelativeDocumentMoniker": "04.OpenAIChat\\Program.cs",
+              "ToolTip": "C:\\Users\\Alim Ka\u00E7ar\\source\\repos\\NetCoreAI\\04.OpenAIChat\\Program.cs",
+              "RelativeToolTip": "04.OpenAIChat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:56:18.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiSeriesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alim Ka\u00E7ar\\source\\repos\\NetCoreAI\\03.RapidAP\u0130\\ViewModels\\ApiSeriesViewModel.cs",
+              "RelativeDocumentMoniker": "03.RapidAP\u0130\\ViewModels\\ApiSeriesViewModel.cs",
+              "ToolTip": "C:\\Users\\Alim Ka\u00E7ar\\source\\repos\\NetCoreAI\\03.RapidAP\u0130\\ViewModels\\ApiSeriesViewModel.cs",
+              "RelativeToolTip": "03.RapidAP\u0130\\ViewModels\\ApiSeriesViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:44:41.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "03.RapidAP\u0130.csproj",
+              "DocumentMoniker": "C:\\Users\\Alim Ka\u00E7ar\\source\\repos\\NetCoreAI\\03.RapidAP\u0130\\03.RapidAP\u0130.csproj",
+              "RelativeDocumentMoniker": "03.RapidAP\u0130\\03.RapidAP\u0130.csproj",
+              "ToolTip": "C:\\Users\\Alim Ka\u00E7ar\\source\\repos\\NetCoreAI\\03.RapidAP\u0130\\03.RapidAP\u0130.csproj",
+              "RelativeToolTip": "03.RapidAP\u0130\\03.RapidAP\u0130.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T14:44:01.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Alim Ka\u00E7ar\\source\\repos\\NetCoreAI\\03.RapidAP\u0130\\Program.cs",
               "RelativeDocumentMoniker": "03.RapidAP\u0130\\Program.cs",
               "ToolTip": "C:\\Users\\Alim Ka\u00E7ar\\source\\repos\\NetCoreAI\\03.RapidAP\u0130\\Program.cs",
               "RelativeToolTip": "03.RapidAP\u0130\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T13:31:34.399Z",
               "EditorCaption": ""
