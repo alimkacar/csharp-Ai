@@ -12,3 +12,6 @@ C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\obj\Debug\net9.0\refint
 C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\obj\Debug\net9.0\03.RapidAPİ.pdb
 C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\obj\Debug\net9.0\03.RapidAPİ.genruntimeconfig.cache
 C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\obj\Debug\net9.0\ref\03.RapidAPİ.dll
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\obj\Debug\net9.0\03.RapidAPİ.csproj.AssemblyReference.cache
+C:\Users\Alim Kaçar\source\repos\NetCoreAI\03.RapidAPİ\obj\Debug\net9.0\03.Rapid.3ACB7D47.Up2Date

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YGON73Iuw04=",
+  "dgSpecHash": "kHbfO5nL4ww=",
   "success": true,
   "projectFilePath": "C:\\Users\\Alim Kaçar\\source\\repos\\NetCoreAI\\03.RapidAPİ\\03.RapidAPİ.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Alim Kaçar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
